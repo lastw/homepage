@@ -41,6 +41,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
 
   return {
     props: { links },
+    unstable_revalidate: 60 * 5,
   };
 };
 
