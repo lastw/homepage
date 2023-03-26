@@ -1,5 +1,5 @@
 /**
- * That's code from my old homepage, ontouched since 2014.
+ * That's code from my old homepage, untouched since 2014.
  */
 
 var P = function (canvas, options) {
