@@ -5,7 +5,7 @@ const IndexPage: NextPage = () => {
   return (
     <>
       <footer>
-        <a href="https://twitter.com/lastwx">twitter</a>
+        <a href="https://lab.fxdx.cc">lab</a>
         <a href="https://github.com/lastw">github</a>
       </footer>
       <style jsx>{`
